@@ -229,7 +229,7 @@ header.fixed {
   margin-top: -0.44rem;
   border-radius: .1rem;
   background: #fff;
-  padding-bottom: .3rem;
+  padding: .3rem 0;
 }
 .zg_mtop {font-size:.3rem;padding:0 0.2rem;height: .52rem;}
 .zg_mtop p{float:right;line-height: .52rem;}
